@@ -2,29 +2,39 @@ Add in the tutorial image here
 
 ![Tool Logo](Image filename)
 
-# Title of Tutorial
-Description of tutorial including what you will learn and any tools that will be used in the process
+# Geocoding aka Adddress Matching
+This tutorial provides step by step instructions for matching a table of addresses to a geographic database using ArcGIS technologies. This process is called "Geocoding". Geocoding consumes 'credits' in the Esri ecosystem. As a user at Brock University (or other 'organization' with a site license) you will be allocated a limited number of credits. Brock University affiliates should contact maplib@brocku.ca before attempting to geocode a table with greater than 100 records.
+
+More details about credits can be found here https://www.esri.com/en-us/arcgis/products/credits/overview?rsource=%2Fsoftware%2Farcgis%2Farcgisonline%2Fcredits
 
 ----
 
 ## Setup Instructions
-In preparation for this tutorial, you will need...
+In preparation for this tutorial, you will need an organizational account. As a Brock University affiliate, you already have such an account. The first part of the tutorial will outline steps for accessing the software using your Brock credentials.  
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+NOTE: ArcGIS Pro is a Windows-based software and will NOT run on a Mac computer unless you have Parallels or Bootcamp installed. Contact Campus ITS in the Campus Bookstore for more information.  
 
-For all of the above, keep in mind that some people could be using machines on campus (or elsewhere) that might have limitations in regards to downloading tools and files so be sure to mention that somewhere.
+NOTE: Brock University has a site license for ArcGIS Pro. Therefore, you may download and install the software on any Windows machines for academic and research purposes. ArcGIS Pro can be found on any PC across campus. The Map, Data & GIS Library also has a special Alienware PC for use by the Brock community.  
+
+https://youtu.be/GqH4UHTUf2s  
+
+Download the Excel file used in this tutorial.
 
 ----
 
 ## Tutorial Steps
-Each tutorial will be different based on the tools used.  Breaking the tutorial up into individual steps is highly reccomended as it reduces congnitive load and allows for "break points" where users can stop and start from at their leisure.  Each step should cover no more than 1 or two concepts and should always assume that the user has minimal experience (explain every action in as granular detail as possible).
 
-If you are enhancing your tutorial with embedded content like H5P modules or Youtube videos, make sure to check how they will look on different mediums.  Generally they will look good on any computer monitor or projector but depending on where you got the embed code from it may not adjust nicely for mobile and tablet viewing.
+1. Run ArcGIS Pro.
+2. Sign in using your Brock credentials as per [this video](https://youtu.be/GqH4UHTUf2s) (NOTE: download instructions are also included in the video)
+3. Create a new project and define the working directory (local storage is recommended).
+4. 
 
-When embedding an iframe, make sure to place at least 2 blank lines above and below it in the markdown file to avoid the HTML interfereing with your markdown syntax.
+
+
+
+
+
+
 
 ----
 
