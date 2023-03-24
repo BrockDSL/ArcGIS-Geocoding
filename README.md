@@ -63,16 +63,13 @@ The table appears in the Contents pane under Standalone Tables:
 18. For Step Six: Select the categories Address and Postal ![image](https://user-images.githubusercontent.com/45638590/227597232-6337b58a-fc04-4211-a982-95e1eaaf12eb.png).  Click Finish.  
 19. From the summary page, notice the option at the top to calculate an estimate of how many credits will be consumed. Users at Brock University will have 300-500 credits by default. This activity will consume 9.08 credits.  
 20. At the bottom of the page, click Run.  
-21. 
+21. When the process is finished, you will see a **Geocoding Complete** window. Here you will have the option to rematch any unmatched records. Click No.
 
+![image](https://user-images.githubusercontent.com/45638590/227598587-38122e37-7632-4f78-96a7-a34d9aab67f6.png)  
 
- 
+The map now shows points representing sports facilities in the Niagara Region and you will see a new feature layer in the Contents pane on the left.  
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/45638590/227598970-e3f10177-21e4-44fe-ac40-f0077e1fc513.png)
 
 
 
@@ -84,7 +81,4 @@ This is where you can add any additional resources, follow up tutorial, or works
 
 ----
 
-**End notes**
-This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
-
-**This tutorial is supported by the Brock University Research Lifecycle Department.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
+**This tutorial is supported by the Brock University Research Lifecycle Department; Map, Data & GIS Library.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [maplib@Brocku.ca](mailto:maplib@Brocku.ca)**
