@@ -37,12 +37,36 @@ The CSV is available [here](NiagaraSportsFacilities.csv).
  ![image](https://user-images.githubusercontent.com/45638590/227007255-e290f578-fdfb-4353-a90b-6c9803f4e25b.png)  
  
 5. Click OK. The software generates a new map project with a project folder and geodatabase.
-6. By default there is a basemap projected to **WGS 1984 Web Mercator (auxillary sphere)**
-7. Click the Map tab at the top and click the Add Data button ![image](https://user-images.githubusercontent.com/45638590/227008015-26c10409-bc60-42d9-ae8e-cdc336f8519f.png)  
+6. By default there is a basemap projected to **WGS 1984 Web Mercator (auxillary sphere)**.
+7. Click the Map tab at the top and click the Add Data button. ![image](https://user-images.githubusercontent.com/45638590/227008015-26c10409-bc60-42d9-ae8e-cdc336f8519f.png)  
 8. Browse to the download directory holding the NiagaraSportsFacilities.csv Select the file and click OK.
-The table appears in the Contents pane under Stand Alone Tables:
+The table appears in the Contents pane under Standalone Tables:
 
-![image](https://user-images.githubusercontent.com/45638590/227008580-a7c08919-b388-4492-9c60-3ec9ebc785f9.png)
+![image](https://user-images.githubusercontent.com/45638590/227008580-a7c08919-b388-4492-9c60-3ec9ebc785f9.png)  
+
+9. Right-click the table under Contents and click Open. Browse the available attributes and notice the address fields. We will match the addresses in the table with the Esri World Geocoder to plot points on the map.
+10. Close the table.
+11. Right-click the table under Contents and click Geocode Table.
+![image](https://user-images.githubusercontent.com/45638590/227594718-e6fe8d94-7661-4e1f-ad61-d10eff85dc5b.png)  The Geocode Table wizard appears to the right of the map view. Navigate through the pages as follows.  
+12. Page one outlines the steps involved. Click Start at the bottom of the page.  
+13. Step One: from the **Input Locator** box, select **ArcGIS World Geocoding Service** ![image](https://user-images.githubusercontent.com/45638590/227595597-36186f55-7200-4d7c-881d-4f349f5f2063.png).  Click Next.
+
+**NOTE: Geocoding consumes credits. Please contact maplib@brocku.ca before attempting to geocode a table with over 500 records.**
+
+14. Step Two: This page prompts you to identify how your data is structured. This particular table has the addresses stored in more than one field. Accept the default and click Next.  
+15. In Step Three, the software attempts to match fields in the CSV with known fields in the address locator. Accept the defaults and click Next.  
+
+![image](https://user-images.githubusercontent.com/45638590/227596541-53cc754f-600d-468c-893f-f85c14e88556.png)
+
+16. For Step Four: Output, you can define where the resulting feature layer is created. Accept the defaults for now and click next.  
+17. For Step Five: Select Canada. This helps the software know the location more accurately. Click Next.    
+18. For Step Six: Select the categories Address and Postal ![image](https://user-images.githubusercontent.com/45638590/227597232-6337b58a-fc04-4211-a982-95e1eaaf12eb.png).  Click Finish.  
+19. From the summary page, notice the option at the top to calculate an estimate of how many credits will be consumed. Users at Brock University will have 300-500 credits by default. This activity will consume 9.08 credits.  
+20. At the bottom of the page, click Run.  
+21. 
+
+
+ 
 
 
 
