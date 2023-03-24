@@ -1,9 +1,5 @@
-Add in the tutorial image here 
-
-![Tool Logo](Image filename)
-
 # Geocoding aka Address Matching
-This tutorial provides step by step instructions for matching a table of addresses to a geographic database using ArcGIS technologies. This process is called "Geocoding". Geocoding consumes 'credits' in the Esri ecosystem. As a user at Brock University (or other 'organization' with a site license) you will be allocated a limited number of credits. Brock University affiliates should contact maplib@brocku.ca before attempting to geocode a table with greater than 100 records.
+This tutorial provides step by step instructions for matching a table of addresses to a geographic database using ArcGIS technologies. This process is called "Geocoding". Geocoding consumes 'credits' in the Esri ecosystem. As a user at Brock University (or other 'organization' with a site license) you will be allocated a limited number of credits. Brock University affiliates should contact maplib@brocku.ca before attempting to geocode a table with greater than 1000 records.
 
 More details about credits can be found [here](https://www.esri.com/en-us/arcgis/products/credits/overview?rsource=%2Fsoftware%2Farcgis%2Farcgisonline%2Fcredits)  
 
@@ -27,7 +23,7 @@ The CSV is available [here](NiagaraSportsFacilities.csv).
 
 ----
 
-## Tutorial Steps
+## Geocoding with ArcGIS Pro
 
 1. Run ArcGIS Pro.
 2. Sign in using your Brock credentials as per [this video](https://youtu.be/GqH4UHTUf2s) (NOTE: download instructions are also included in the video)
@@ -71,6 +67,41 @@ The map now shows points representing sports facilities in the Niagara Region an
 
 ![image](https://user-images.githubusercontent.com/45638590/227598970-e3f10177-21e4-44fe-ac40-f0077e1fc513.png)
 
+
+## Geocoding with ArcGIS Online  
+
+1. Go to https://arcgis.com and sign in as per the instructions above. 
+
+NOTE: Geocoding in ArcGIS Online is limited to users with an organizational account.
+
+2. Click the Map option at the top of the screen. 
+
+![image](https://user-images.githubusercontent.com/45638590/227601881-f0bf18bb-c6ee-4c59-b5d1-3c4d9dda8fe6.png)
+
+This software as a service is constantly being updated. At the time of writing, the simplest way to plot points is to add layer from file. Follow these steps:  
+
+3. Click the little arrow beside the Add button ![image](https://user-images.githubusercontent.com/45638590/227602353-b3590aac-f145-4b7c-9c84-1ae88e13bb7a.png)  
+4. Select the option to Add Layer From File.  
+5. Click ![image](https://user-images.githubusercontent.com/45638590/227602648-f182d3b6-7677-4b8e-8045-881f9a8ba741.png)
+6. Browse to your downloaded sports facilities data, select the csv and click Open. You will be taken through a series of prompts.
+7. Select **Create a hosted feature layer and add it to the map.** Click Next.
+8. This prompt allows you to identify the fields to include with the hosted feature layer. Accept the defaults and click Next. 
+9. From the location settings, change the default selection to Addresses and Placenames ![image](https://user-images.githubusercontent.com/45638590/227603511-6799b99f-60cf-49ac-b77b-d2ba1436a683.png). 
+10. Scroll down a bit and change the option for **Location Fields**. ![image](https://user-images.githubusercontent.com/45638590/227603839-ee48bcef-4e2a-4954-8814-20734007be2e.png). 
+11. Scroll down to see how the software is matching the fields. You will need to select the field for Postal Code.
+12. Scrolling down a little further will reveal approximately how many credits will be used to geocode the table.
+ 
+![image](https://user-images.githubusercontent.com/45638590/227604218-ff42f5cd-6df7-41b3-9f8b-0b311919abf9.png)
+
+13. Click Next. This page offers the option to change the layer name, storage location in ArcGIS Online and to add tags (keywords) or a summary.
+
+![image](https://user-images.githubusercontent.com/45638590/227604646-efe7d799-0c48-4dd4-b25d-07455b5c0d99.png)
+
+14. Click ![image](https://user-images.githubusercontent.com/45638590/227604709-afb779c6-512c-4829-927a-f0cc94ec3750.png)
+
+The results show the location of sports facilities across the Niagara Region.
+
+![image](https://user-images.githubusercontent.com/45638590/227604891-4e6acf68-dd26-4a6f-9392-e7ae78bc7e72.png)
 
 
 
