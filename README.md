@@ -95,9 +95,7 @@ This software as a service is constantly being updated. At the time of writing, 
 
 ![image](https://user-images.githubusercontent.com/45638590/227604646-efe7d799-0c48-4dd4-b25d-07455b5c0d99.png)
 
-14. Click ![image](https://user-images.githubusercontent.com/45638590/227604709-afb779c6-512c-4829-927a-f0cc94ec3750.png)
-
-The results show the location of sports facilities across the Niagara Region.
+14. Click ![image](https://user-images.githubusercontent.com/45638590/227604709-afb779c6-512c-4829-927a-f0cc94ec3750.png) The results show the location of sports facilities across the Niagara Region.
 
 ![image](https://user-images.githubusercontent.com/45638590/227604891-4e6acf68-dd26-4a6f-9392-e7ae78bc7e72.png)
 
@@ -110,4 +108,4 @@ This is where you can add any additional resources, follow up tutorial, or works
 
 ----
 
-**This tutorial is supported by the Brock University Research Lifecycle Department; Map, Data & GIS Library.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [maplib@Brocku.ca](mailto:maplib@Brocku.ca)**
+**This tutorial is supported by the Brock University Research Lifecycle Department; Map, Data & GIS Library.  If you have any questions or concerns regarding this tutorial, don't hesitate to contact [maplib@brocku.ca](mailto:maplib@brocku.ca)**
