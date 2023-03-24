@@ -40,8 +40,7 @@ The table appears in the Contents pane under Standalone Tables:
 
 9. Right-click the table under Contents and click Open. Browse the available attributes and notice the address fields. We will match the addresses in the table with the Esri World Geocoder to plot points on the map.
 10. Close the table.
-11. Right-click the table under Contents and click Geocode Table.
-![image](https://user-images.githubusercontent.com/45638590/227594718-e6fe8d94-7661-4e1f-ad61-d10eff85dc5b.png)  The Geocode Table wizard appears to the right of the map view. Navigate through the pages as follows.  
+11. Right-click the table under Contents and click ![image](https://user-images.githubusercontent.com/45638590/227594718-e6fe8d94-7661-4e1f-ad61-d10eff85dc5b.png).  The Geocode Table wizard appears to the right of the map view. Navigate through the pages as follows.  
 12. Page one outlines the steps involved. Click Start at the bottom of the page.  
 13. Step One: from the **Input Locator** box, select **ArcGIS World Geocoding Service** ![image](https://user-images.githubusercontent.com/45638590/227595597-36186f55-7200-4d7c-881d-4f349f5f2063.png).  Click Next.
 
