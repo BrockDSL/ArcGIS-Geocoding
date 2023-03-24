@@ -1,4 +1,4 @@
-# Geocoding aka Address Matching
+# Geocoding (Address Matching)
 This tutorial provides step by step instructions for matching a table of addresses to a geographic database using ArcGIS technologies. This process is called "Geocoding". Geocoding consumes 'credits' in the Esri ecosystem. As a user at Brock University (or other 'organization' with a site license) you will be allocated a limited number of credits. Brock University affiliates should contact maplib@brocku.ca before attempting to geocode a table with more than 1000 records.
 
 More details about credits can be found [here](https://www.esri.com/en-us/arcgis/products/credits/overview?rsource=%2Fsoftware%2Farcgis%2Farcgisonline%2Fcredits).  
