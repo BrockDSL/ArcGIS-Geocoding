@@ -1,18 +1,18 @@
 # Geocoding (Address Matching)
-This tutorial provides step by step instructions for matching a table of addresses to a geographic database using ArcGIS technologies. This process is called "Geocoding". Geocoding consumes 'credits' in the Esri ecosystem. As a user at Brock University (or other 'organization' with a site license) you will be allocated a limited number of credits. Brock University affiliates should contact maplib@brocku.ca before attempting to geocode a table with more than 1000 records.
+This tutorial provides step by step instructions for matching a table of addresses to a geographic database using ArcGIS technologies. This process is called "Geocoding". Geocoding consumes 'credits' in the Esri ecosystem. As a user at Brock University (or other 'organization' with a site license) you will be allocated a limited number of credits. Brock University affiliates should contact [maplib@brocku.ca](maplib@brocku.ca) before attempting to geocode a table with more than 1000 records.
 
 More details about credits can be found [here](https://www.esri.com/en-us/arcgis/products/credits/overview?rsource=%2Fsoftware%2Farcgis%2Farcgisonline%2Fcredits).  
 
 ----
 
 ## Setup Instructions
-In preparation for this tutorial, you will need an organizational account. As a Brock University affiliate, you already have such an account. The first part of the tutorial will outline steps for accessing the software using your Brock credentials. https://youtu.be/GqH4UHTUf2s 
+In preparation for this tutorial, you will need an organizational account. As a Brock University affiliate, you already have such an account. The first part of the tutorial will outline steps for accessing the software using your Brock credentials. [Video instructions](https://youtu.be/GqH4UHTUf2s). 
 
 **NOTE:** ArcGIS Pro is a Windows-based software and will NOT run on a Mac computer unless you have Parallels or Bootcamp installed. Contact Campus ITS in the Campus Bookstore for more information.  
 
 **NOTE:** Brock University has a site license for ArcGIS Pro. Therefore, you may download and install the software on any Windows machines for academic and research purposes. ArcGIS Pro can be found on any PC across campus. The Map, Data & GIS Library also has a special Alienware PC for use by the Brock community.  
 
-Download the Excel file used in this tutorial. Niagara Sports Facilities [acquired from https://niagaraopendata.ca/dataset/niagara-sports-clubs-facilities](https://niagaraopendata.ca/dataset/niagara-sports-clubs-facilities) 
+Download the Excel file used in this tutorial. Niagara Sports Facilities acquired from [https://niagaraopendata.ca/dataset/niagara-sports-clubs-facilities](https://niagaraopendata.ca/dataset/niagara-sports-clubs-facilities). 
 
 ![image](https://user-images.githubusercontent.com/45638590/227005932-a60acb9f-3b34-4203-9088-5f012f652355.png)
 
