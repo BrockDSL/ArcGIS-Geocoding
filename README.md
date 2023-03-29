@@ -105,7 +105,7 @@ This software as a service is constantly being updated. At the time of writing, 
 ----
 
 ## Next Steps (Optional)
-[Joining tabular data to geospatial features](https://brockdsl.github.io/ArcGIS_Joining_Data/)
+[Joining tabular data to geospatial data](https://brockdsl.github.io/ArcGIS_Joining_Data/)
 
 ----
 
