@@ -105,7 +105,7 @@ This software as a service is constantly being updated. At the time of writing, 
 ----
 
 ## Next Steps (Optional)
-This is where you can add any additional resources, follow up tutorial, or workshop reccomendations that users might use to continue learning about the tool described in the tutorial.  The more the better!
+[Joining tabular data to geospatial features](https://brockdsl.github.io/ArcGIS_Joining_Data/)
 
 ----
 
