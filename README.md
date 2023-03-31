@@ -38,7 +38,7 @@ The CSV is also available [here](NiagaraSportsFacilities.csv).
 8. Browse to the download directory holding the **NiagaraSportsFacilities.csv**. Select the file and click OK.
 The table appears in the **Contents** pane under **Standalone Tables**:
 
-![image](https://user-images.githubusercontent.com/45638590/227008580-a7c08919-b388-4492-9c60-3ec9ebc785f9.png)  
+   ![image](https://user-images.githubusercontent.com/45638590/227008580-a7c08919-b388-4492-9c60-3ec9ebc785f9.png)  
 
 9. Right-click the table under Contents and click Open. Browse the attributes and notice the address fields. We will match the addresses in the table with the **Esri World Geocoder** to plot points on the map.
 10. Close the table.
@@ -51,7 +51,7 @@ The table appears in the **Contents** pane under **Standalone Tables**:
 14. Step Two: This page prompts you to identify how your data is structured. This particular table has the addresses stored in more than one field. Accept the default and click Next.  
 15. In Step Three, the software attempts to match fields in the CSV with known fields in the address locator. Accept the defaults and click Next.  
 
-![image](https://user-images.githubusercontent.com/45638590/227596541-53cc754f-600d-468c-893f-f85c14e88556.png)
+   ![image](https://user-images.githubusercontent.com/45638590/227596541-53cc754f-600d-468c-893f-f85c14e88556.png)
 
 16. For Step Four: **Output**, you can define where the resulting feature layer is created. Accept the defaults for now and click next.  
 17. For Step Five: Select Canada. This helps the software know the location more accurately. Click Next.    
@@ -60,11 +60,11 @@ The table appears in the **Contents** pane under **Standalone Tables**:
 20. At the bottom of the page, click Run.  
 21. When the process is finished, you will see a **Geocoding Complete** window. Here you will have the option to rematch any unmatched records. Click No.
 
-![image](https://user-images.githubusercontent.com/45638590/227598587-38122e37-7632-4f78-96a7-a34d9aab67f6.png)  
+   ![image](https://user-images.githubusercontent.com/45638590/227598587-38122e37-7632-4f78-96a7-a34d9aab67f6.png)  
 
 The map now displays points representing sports facilities in the Niagara Region and you will see a new feature layer in the Contents pane on the left.  
 
-![image](https://user-images.githubusercontent.com/45638590/227598970-e3f10177-21e4-44fe-ac40-f0077e1fc513.png)
+   ![image](https://user-images.githubusercontent.com/45638590/227598970-e3f10177-21e4-44fe-ac40-f0077e1fc513.png)
 
 
 ## Geocoding with ArcGIS Online  
@@ -75,7 +75,7 @@ The map now displays points representing sports facilities in the Niagara Region
 
 2. Click the **Map** option at the top of the screen. 
 
-![image](https://user-images.githubusercontent.com/45638590/227601881-f0bf18bb-c6ee-4c59-b5d1-3c4d9dda8fe6.png)
+   ![image](https://user-images.githubusercontent.com/45638590/227601881-f0bf18bb-c6ee-4c59-b5d1-3c4d9dda8fe6.png)
 
 This software as a service is constantly being updated. At the time of writing, the simplest way to plot points is to **Add layer from file**. Follow these steps:  
 
@@ -90,15 +90,15 @@ This software as a service is constantly being updated. At the time of writing, 
 11. Scroll down to see how the software is matching the fields. You will need to select the field for Postal Code.
 12. Scrolling down a little further will reveal approximately how many credits will be used to geocode the table.
  
-![image](https://user-images.githubusercontent.com/45638590/227604218-ff42f5cd-6df7-41b3-9f8b-0b311919abf9.png)
+   ![image](https://user-images.githubusercontent.com/45638590/227604218-ff42f5cd-6df7-41b3-9f8b-0b311919abf9.png)
 
 13. Click Next. This page offers the option to change the layer name, storage location in ArcGIS Online and to add **Tags** (keywords) and a **Summary**.
 
-![image](https://user-images.githubusercontent.com/45638590/227604646-efe7d799-0c48-4dd4-b25d-07455b5c0d99.png)
+   ![image](https://user-images.githubusercontent.com/45638590/227604646-efe7d799-0c48-4dd4-b25d-07455b5c0d99.png)
 
 14. Click ![image](https://user-images.githubusercontent.com/45638590/227604709-afb779c6-512c-4829-927a-f0cc94ec3750.png) The results show the location of sports facilities across the Niagara Region.
 
-![image](https://user-images.githubusercontent.com/45638590/227604891-4e6acf68-dd26-4a6f-9392-e7ae78bc7e72.png)
+   ![image](https://user-images.githubusercontent.com/45638590/227604891-4e6acf68-dd26-4a6f-9392-e7ae78bc7e72.png)
 
 
 
