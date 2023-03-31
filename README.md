@@ -85,7 +85,7 @@ This software as a service is constantly being updated. At the time of writing, 
 6. Browse to your downloaded sports facilities table, select the csv and click Open. You will be taken through a series of prompts.
 7. Select **Create a hosted feature layer and add it to the map.** Click Next.
 8. This prompt allows you to identify the fields to include with the hosted feature layer. Accept the defaults and click Next. 
-9. From the location settings, change the default selection to **Addresses or Placenames** ![image](https://user-images.githubusercontent.com/45638590/227603511-6799b99f-60cf-49ac-b77b-d2ba1436a683.png). 
+9. From the location settings, change the default selection to **Addresses or place names** ![image](https://user-images.githubusercontent.com/45638590/227603511-6799b99f-60cf-49ac-b77b-d2ba1436a683.png). 
 10. Scroll down a bit and change the option for **Location Fields**. ![image](https://user-images.githubusercontent.com/45638590/227603839-ee48bcef-4e2a-4954-8814-20734007be2e.png). 
 11. Scroll down to see how the software is matching the fields. You will need to select the field for Postal Code.
 12. Scrolling down a little further will reveal approximately how many credits will be used to geocode the table.
@@ -96,7 +96,7 @@ This software as a service is constantly being updated. At the time of writing, 
 
    ![image](https://user-images.githubusercontent.com/45638590/227604646-efe7d799-0c48-4dd4-b25d-07455b5c0d99.png)
 
-14. Click ![image](https://user-images.githubusercontent.com/45638590/227604709-afb779c6-512c-4829-927a-f0cc94ec3750.png) The results show the location of sports facilities across the Niagara Region.
+14. Click ![image](https://user-images.githubusercontent.com/45638590/227604709-afb779c6-512c-4829-927a-f0cc94ec3750.png). The results show the location of sports facilities across the Niagara Region.
 
    ![image](https://user-images.githubusercontent.com/45638590/227604891-4e6acf68-dd26-4a6f-9392-e7ae78bc7e72.png)
 
