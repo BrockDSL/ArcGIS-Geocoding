@@ -10,7 +10,7 @@ More details about credits can be found [here](https://www.esri.com/en-us/arcgis
 ## Setup Instructions
 In preparation for this tutorial, you will need an organizational account. As a Brock University affiliate, you already have such an account. The first part of the tutorial will outline steps for accessing the software using your Brock credentials. [Video instructions](https://youtu.be/GqH4UHTUf2s). 
 
-**NOTE:** ArcGIS Pro is a Windows-based software and will NOT run on a Mac computer unless you have Parallels or Bootcamp installed. Contact Campus ITS in the Campus Bookstore for more information.  
+**NOTE:** ArcGIS Pro is a Windows-based software and will NOT run on a Mac computer unless you have Parallels or Bootcamp installed. Contact Campus ITS in the Campus Store for more information.  
 
 **NOTE:** Brock University has a site license for ArcGIS Pro. Therefore, you may download and install the software on any Windows machines for academic and research purposes. ArcGIS Pro can be found on any PC across campus. The Map, Data & GIS Library also has a special Alienware PC for use by the Brock community.  
 
@@ -58,7 +58,7 @@ The table appears in the **Contents** pane under **Standalone Tables**:
 18. For **Step Six**: Select the categories **Address** and **Postal** ![image](https://user-images.githubusercontent.com/45638590/227597232-6337b58a-fc04-4211-a982-95e1eaaf12eb.png).  Click Finish.  
 19. From the summary page, notice the option at the top to calculate an estimate of how many credits will be consumed. Users at Brock University will have 300-500 credits by default. This activity will consume approximately **9 credits**.  
 20. At the bottom of the page, click Run.  
-21. When the process is finished, you will see a **Geocoding Complete** window. Here you will have the option to rematch any unmatched records. Click No.
+21. When the process is finished, you will see a **Geocoding Completed** window. Here you will have the option to rematch any unmatched records. Click No.
 
    ![image](https://user-images.githubusercontent.com/45638590/227598587-38122e37-7632-4f78-96a7-a34d9aab67f6.png)  
 
