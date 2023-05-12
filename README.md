@@ -69,7 +69,7 @@ The map now displays points representing sports facilities in the Niagara Region
 
 ## Geocoding with ArcGIS Online  
 
-1. Go to https://arcgis.com and sign in as per the instructions above. 
+1. Go to [https://arcgis.com](https://arcgis.com) and sign in as per the instructions above. 
 
 **NOTE: Geocoding in ArcGIS Online is limited to users with an organizational account.**
 
